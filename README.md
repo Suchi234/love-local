@@ -1,3 +1,7 @@
+suchithra 4SN20EC017 Electronics and communication engineering
+Srinivas Institute Of Technology Mangalore
+
+
 # love-local
 love local assignment
 def length_of_last_word(s):
